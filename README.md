@@ -2,7 +2,6 @@
 Software engineer with 10+ years of experience.  Worked for innovative startups, large enterprise products.
 
 ## 💻 Interesting Contributions
--
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)

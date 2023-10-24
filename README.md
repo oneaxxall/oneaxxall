@@ -15,6 +15,8 @@ Software engineer with 10+ years of experience.  Worked for innovative startups,
 ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
 ![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+!![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 ## 📊 Statistics
 [![Oneaxxall's github stats](https://github-readme-stats.vercel.app/api?username=oneaxxall&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
